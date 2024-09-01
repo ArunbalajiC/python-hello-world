@@ -1,0 +1,19 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.py",
+  "scripts": {
+    "build": "echo 'No build step needed'",
+    "start": "python api/index.py"
+  },
+  "dependencies": {
+    "duckduckgo-search": "^1.0.0",
+    "requests": "^2.25.1",
+    "Pillow": "^8.2.0",
+    "matplotlib": "^3.4.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
